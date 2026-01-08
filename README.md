@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on a full-stack marketplace application and liferay services ,java programming<br>👯 I’m looking to collaborate on open-source MERN stack projects<br>🌱 I’m currently learning how to integrate Generative AI into web apps<br>⚡ Fun fact I treat CSS validation errors like syntax errors—they must be fixed!
+🔭I’m currently working on a full-stack marketplace application and liferay services ,java programming<br>👯 I’m looking to collaborate on open-source MERN stack projects<br>🌱 I’m currently learning how to integrate Generative AI into web apps<br>https://www.linkedin.com/in/yug-thummar-1834202b5/<br>⚡ Fun fact I treat CSS validation errors like syntax errors—they must be fixed!
 
 
 ## 🌐 Socials:
@@ -15,8 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Yug-Thummar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Thummar Yug) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
